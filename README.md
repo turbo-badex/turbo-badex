@@ -3,8 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taiwo Badejo
 ======================================================================================================================================
 
-BSc. in Computer Science
+Instructional Developer | AI Technologist | DevOps Learner | BSc. in Computer & Communication Engineering
 -----------------------------------------------------------------
+I’m an Instructional Developer expanding into the DevOps space. My core strength is simplifying complex systems through scalable infrastructure, interactive courses, or AI-powered tools.
+
+Right now, I’m applying this lens to cloud-native technologies like Kubernetes, CI/CD, and GitOps—documenting my journey
 
 * 🌍  I'm based in Edmonton, Canada
 * ✉️  You can contact me at [badejotaiwo@gmail.com](mailto:badejotaiwo@gmail.com)
