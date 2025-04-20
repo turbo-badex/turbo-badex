@@ -11,7 +11,7 @@ Right now, I’m applying this lens to cloud-native technologies like Kubernetes
 
 * 🌍  I'm based in Edmonton, Canada
 * ✉️  You can contact me at [badejotaiwo@gmail.com](mailto:badejotaiwo@gmail.com)
-* 🧠  I'm learning AWS, Docker, Kubernetes, Terraform, Jenkins
+* 🧠  I'm learning AWS, Docker, Kubernetes, GitOps, Terraform, Jenkins
 * 🤝  I'm open to collaborating on IoT, Cloud and AI
 
 ### Skills
