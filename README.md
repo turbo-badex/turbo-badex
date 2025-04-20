@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taiwo Badejo
 ======================================================================================================================================
 
-Instructional Developer | AI Technologist | DevOps Learner | BSc. in Computer & Communication Engineering
+Instructional Developer | DevOps Learner | BSc. in Computer Science
 -----------------------------------------------------------------
 I’m an Instructional Developer expanding into the DevOps space. My core strength is simplifying complex systems through scalable infrastructure, interactive courses, or AI-powered tools.
 
