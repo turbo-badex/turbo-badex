@@ -7,7 +7,7 @@ I’m an Instructional Developer and certified Kubernetes administrator.
 
 * 🌍  I'm based in Edmonton, Canada
 * ✉️  You can contact me at [badejotaiwo@gmail.com](mailto:badejotaiwo@gmail.com)
-* 🧠  I'm learning AWS, Docker, Kubernetes, GitOps, Terraform, Jenkins
+* 🧠  Here's my playground for container, Kubernetes, GitOps and cloud native technologies
 * 🤝  I'm open to collaborating on IoT, Cloud and AI
 
 ### Skills
