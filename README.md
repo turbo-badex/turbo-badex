@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taiwo Badejo
 ======================================================================================================================================
 
-Certified Kubernetes Administrator | OpenShift | DevOps | BSc. in Computer Science
------------------------------------------------------------------
-I’m a certified Kubernetes and OpenShift administrator.
 
 * 🌍  I'm based in Edmonton, Canada
 * ✉️  You can contact me at [badejotaiwo@gmail.com](mailto:badejotaiwo@gmail.com)
